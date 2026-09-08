@@ -4,162 +4,194 @@
         {
             "name": "Participation Trophy",
             "NumUsers": 4714,
-            "percentage": "100.0%"
+            "percentage": "100.0%",
+            "group": "ranking"
         },
         {
             "name": "No Mistakes",
             "NumUsers": 2419,
-            "percentage": "51.32%"
+            "percentage": "51.32%",
+            "group": "undo"
         },
         {
             "name": "Monocolor",
             "NumUsers": 1087,
-            "percentage": "23.06%"
+            "percentage": "23.06%",
+            "group": "colors"
         },
         {
             "name": "Cover-up",
             "NumUsers": 708,
-            "percentage": "15.02%"
+            "percentage": "15.02%",
+            "group": "cover"
         },
         {
             "name": "Alright Alright Alright Coordinate",
             "NumUsers": 673,
-            "percentage": "14.28%"
+            "percentage": "14.28%",
+            "group": "location"
         },
         {
             "name": "Nice Coordinate",
             "NumUsers": 671,
-            "percentage": "14.23%"
+            "percentage": "14.23%",
+            "group": "location"
         },
         {
             "name": "Unlucky Coordinate",
             "NumUsers": 652,
-            "percentage": "13.83%"
+            "percentage": "13.83%",
+            "group": "location"
         },
         {
             "name": "Answer to the Ultimate Question of Life, the Universe, and Everything Coordinate",
             "NumUsers": 638,
-            "percentage": "13.53%"
+            "percentage": "13.53%",
+            "group": "location"
         },
         {
             "name": "Diablo Coordinate",
             "NumUsers": 252,
-            "percentage": "5.35%"
+            "percentage": "5.35%",
+            "group": "location"
         },
         {
             "name": "You know there is an undo button, right?",
             "NumUsers": 246,
-            "percentage": "5.22%"
+            "percentage": "5.22%",
+            "group": "undo"
         },
         {
             "name": "Final Minute",
             "NumUsers": 169,
-            "percentage": "3.59%"
+            "percentage": "3.59%",
+            "group": "timing"
         },
         {
             "name": "Worlds Apart",
             "NumUsers": 53,
-            "percentage": "1.12%"
+            "percentage": "1.12%",
+            "group": "location"
         },
         {
             "name": "Final 5 Seconds",
             "NumUsers": 46,
-            "percentage": "0.98%"
+            "percentage": "0.98%",
+            "group": "timing"
         },
         {
             "name": "Top 100",
             "NumUsers": 44,
-            "percentage": "0.93%"
+            "percentage": "0.93%",
+            "group": "ranking"
         },
         {
             "name": "Final 10 Seconds",
             "NumUsers": 41,
-            "percentage": "0.87%"
+            "percentage": "0.87%",
+            "group": "timing"
         },
         {
             "name": "Most Contested",
             "NumUsers": 39,
-            "percentage": "0.83%"
+            "percentage": "0.83%",
+            "group": "location"
         },
         {
             "name": "Unlucky Count",
             "NumUsers": 37,
-            "percentage": "0.78%"
+            "percentage": "0.78%",
+            "group": "placed"
         },
         {
             "name": "Taste the Rainbow",
             "NumUsers": 30,
-            "percentage": "0.64%"
+            "percentage": "0.64%",
+            "group": "colors"
         },
         {
             "name": "Top 50",
             "NumUsers": 26,
-            "percentage": "0.55%"
+            "percentage": "0.55%",
+            "group": "ranking"
         },
         {
             "name": "Closer",
             "NumUsers": 20,
-            "percentage": "0.42%"
+            "percentage": "0.42%",
+            "group": "timing"
         },
         {
             "name": "Perfect Attendance",
             "NumUsers": 18,
-            "percentage": "0.38%"
+            "percentage": "0.38%",
+            "group": "ranking"
         },
         {
             "name": "Delete Your Art",
             "NumUsers": 17,
-            "percentage": "0.36%"
+            "percentage": "0.36%",
+            "group": "undo"
         },
         {
             "name": "Top 25",
             "NumUsers": 14,
-            "percentage": "0.3%"
+            "percentage": "0.3%",
+            "group": "ranking"
         },
         {
             "name": "1st Minute",
             "NumUsers": 14,
-            "percentage": "0.3%"
+            "percentage": "0.3%",
+            "group": "timing"
         },
         {
             "name": "Answer to the Ultimate Question of Life, the Universe, and Everything Count",
             "NumUsers": 11,
-            "percentage": "0.23%"
+            "percentage": "0.23%",
+            "group": "placed"
         },
         {
             "name": "Top 10",
             "NumUsers": 10,
-            "percentage": "0.21%"
+            "percentage": "0.21%",
+            "group": "ranking"
         },
         {
             "name": "Nice Count",
             "NumUsers": 10,
-            "percentage": "0.21%"
+            "percentage": "0.21%",
+            "group": "placed"
         },
         {
             "name": "1st 10 Seconds",
             "NumUsers": 8,
-            "percentage": "0.17%"
+            "percentage": "0.17%",
+            "group": "timing"
         },
         {
             "name": "Alright Alright Alright Count",
             "NumUsers": 7,
-            "percentage": "0.15%"
+            "percentage": "0.15%",
+            "group": "placed"
         },
         {
             "name": "1st 5 Seconds",
             "NumUsers": 7,
-            "percentage": "0.15%"
+            "percentage": "0.15%",
+            "group": "timing"
         },
         {
             "name": "Diablo Count",
             "NumUsers": 3,
-            "percentage": "0.06%"
+            "percentage": "0.06%",
+            "group": "placed"
         },
         {
             "name": "Four Corners",
             "NumUsers": 1,
-            "percentage": "0.02%"
+            "percentage": "0.02%",
+            "group": "location"
         }
     ]
 }
